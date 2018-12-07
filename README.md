@@ -15,3 +15,12 @@ CNN Style Transfer AI which will copy the content of an assignment and "rewrite"
   
   <img src = "assignment.jpg" width = "250" title ="Assignemnt">
 </p>
+
+# Output
+
+After 5 iterations 
+
+<p align="left">
+  
+  <img src = "output.png" width = "250" title ="output">
+</p>
